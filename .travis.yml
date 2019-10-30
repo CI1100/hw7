@@ -1,9 +1,9 @@
 language: python
 
 python:
- - 3.6
  - 3.5
- - 3.4
+ - 3.6
+ - 3.7
 
 before_install:
  - wget https://www4.stat.ncsu.edu/~boos/var.select/diabetes.rwrite1.txt
